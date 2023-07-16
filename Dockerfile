@@ -1,4 +1,4 @@
-FROM bitnami/spark:3.2.1
+FROM bitnami/spark:2
 LABEL maintainer "Prospecta <developer@prospecta.com>"
 USER root
 
